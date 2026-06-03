@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main() {
+void add() {
     int n, i, sum = 0;
 
     do {

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void rev() {
   int n, reverse = 0, remainder, original;
 
   printf("Enter an integer: ");
